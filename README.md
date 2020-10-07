@@ -119,4 +119,4 @@ delay(2000);
 
 - **ARDUINO REFERENCE**. Disponível em: https://www.arduino.cc/reference/en/. Acesso em: entre 03 out. 2020 e 07 out. 2020.
 - **TINKERCAD**. Disponível em: https://www.tinkercad.com. Acesso em: entre 03 out. 2020 e 07 out. 2020.
-
+- **O ESCALONAMENTO DE TEMPO REAL**. Disponível em: https://www.cin.ufpe.br/~if728/sistemas_tempo_real/livro_farines/cap2.pdf. Acesso em: entre 02 out. 2020 e 06 out. 2020.
