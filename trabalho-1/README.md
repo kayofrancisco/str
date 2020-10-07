@@ -29,10 +29,10 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 O objeto deste laboratório é entender o diagrama temporal de execução escolanado pelo algoritmo ***Taxa Monotônica***.
 
 ### 01 - Considere o seguinte conjunto de tarefas periódicas e independentes e a correspondente caracterização temporal
-![screenshot of arduino board](/laboratorio-2/tabela1.png)
+![screenshot of arduino board](trabalho-1/laboratorio-2/tabela1.png)
 
 #### Trace o respectivo diagrama temporal de execução
-![screenshot of arduino board](/laboratorio-2/diagrama1.png)
+![screenshot of arduino board](trabalho-1/laboratorio-2/diagrama1.png)
 
 
 #### Prove que o segundo algoritmo “Taxa Monotônica” é possível definir uma escala exequível para este conjunto de tarefas
@@ -47,11 +47,11 @@ Somando U, temos 0,753 <= 1, que prova que o conjunto tem uma escala exequível,
 
 ### 02 - Considere o seguinte conjunto de tarefas periódicas e independentes e a correspondente caracterização temporal
 
-![screenshot of arduino board](/laboratorio-2/tabela2.png)
+![screenshot of arduino board](trabalho-1/laboratorio-2/tabela2.png)
 
 #### Identifique no respectivo diagrama temporal de execução a prova de não exequibilidade da escala
 
-![screenshot of arduino board](/laboratorio-2/diagrama2.png)
+![screenshot of arduino board](trabalho-1/laboratorio-2/diagrama2.png)
 
 
 #### Prove que o segundo algoritmo RM não é possível definir uma escala exequível para este conjunto de tarefas
@@ -66,7 +66,7 @@ Somando U, temos 3 > 1, onde não há satisfação do algoritmo, o que prova que
 
 O objetivo deste laboratório é criar um circuito que, por meio de um sensor de luminosidade, detectará o valor da luminosidade sobre a placa ***Arduino*** e acionará um buzzer caso esse valor fique menor que um valor determinado.
 
-![screenshot of arduino board](/laboratorio-4/exercicio-1.png)
+![screenshot of arduino board](trabalho-1/laboratorio-4/exercicio-1.png)
 
 ### Setup
 
